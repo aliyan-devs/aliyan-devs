@@ -95,10 +95,9 @@ Dark luxury themed portfolio with animated sections and case studies.
 <br/>
 
 ## GitHub Analytics
-
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aliyan-devs&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyan-devs&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5FF"/>
+<img height="165" src="https://YOUR-VERCEL-URL.vercel.app/api?username=aliyan-devs&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+<img height="165" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=aliyan-devs&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5FF"/>
 </p>
 
 <p align="center">
